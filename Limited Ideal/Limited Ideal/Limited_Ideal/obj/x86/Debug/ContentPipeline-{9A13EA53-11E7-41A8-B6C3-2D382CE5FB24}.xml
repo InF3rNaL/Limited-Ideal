@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SampleWorld2_2.png</Source>
+      <Name>SampleWorld2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EricH\Dropbox\Limited Ideal\Limited Ideal\Limited_Ideal\bin\x86\Debug\Content\SampleWorld2_2.xnb</Output>
+      <Time>2017-03-16T08:09:38.9602061-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerModel.png</Source>
+      <Name>PlayerModel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EricH\Dropbox\Limited Ideal\Limited Ideal\Limited_Ideal\bin\x86\Debug\Content\PlayerModel.xnb</Output>
+      <Time>2017-04-19T08:25:33.792423-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SampleWorld2_3.png</Source>
+      <Name>SampleWorld2_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EricH\Dropbox\Limited Ideal\Limited Ideal\Limited_Ideal\bin\x86\Debug\Content\SampleWorld2_3.xnb</Output>
+      <Time>2017-04-19T12:21:32.9403367-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SampleWorld2_4.png</Source>
+      <Name>SampleWorld2_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EricH\Dropbox\Limited Ideal\Limited Ideal\Limited_Ideal\bin\x86\Debug\Content\SampleWorld2_4.xnb</Output>
+      <Time>2017-04-19T12:24:02.6928512-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SampleWorld2.png</Source>
+      <Name>SampleWorld2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EricH\Dropbox\Limited Ideal\Limited Ideal\Limited_Ideal\bin\x86\Debug\Content\SampleWorld2.xnb</Output>
+      <Time>2017-04-19T12:26:33.4207345-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SampleWorld2_5.png</Source>
+      <Name>SampleWorld2_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EricH\Dropbox\Limited Ideal\Limited Ideal\Limited_Ideal\bin\x86\Debug\Content\SampleWorld2_5.xnb</Output>
+      <Time>2017-04-19T12:29:31.2919559-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{9A13EA53-11E7-41A8-B6C3-2D382CE5FB24}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\EricH\Dropbox\Limited Ideal\Limited Ideal\Limited_IdealContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\EricH\Dropbox\Limited Ideal\Limited Ideal\Limited_Ideal\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\EricH\Dropbox\Limited Ideal\Limited Ideal\Limited_Ideal\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\EricH\Dropbox\Limited Ideal\Limited Ideal\Limited_Ideal\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-10-05T08:50:38.5290783-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
